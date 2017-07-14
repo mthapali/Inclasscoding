@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">classpj</string>
+    <string name="button1">email</string>
+    <string name="button2">calender</string>
+    <string name="button3">Contact</string>
+    <string name="button4">camera</string>
+</resources>
