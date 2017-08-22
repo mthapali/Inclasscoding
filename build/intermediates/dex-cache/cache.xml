@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/ROSE/Downloads/Inclasscoding/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/ROSE/Downloads/csc413/classcoding/Inclasscoding/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be3cea875406f1fc25d744d3356525d3d2a99100">
+        <dex dex="/Users/ROSE/Downloads/csc413/classcoding/Inclasscoding/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c4722e0478f1bca6f4812554f94555a30d986522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ROSE/Downloads/csc413/classcoding/Inclasscoding/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/ROSE/Downloads/Inclasscoding/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cc5bb81b1de85225de0662432a2e675ee911a1f2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ROSE/Downloads/Inclasscoding/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9a552d03abd3b44cffac4272d881f62889e4f944">
-        <dex dex="/Users/ROSE/Downloads/Inclasscoding/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d63930a407916ed08ef1d58ae031a3dabc11276f/classes.dex" />
+        <dex dex="/Users/ROSE/Downloads/csc413/classcoding/Inclasscoding/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5f251f535391c2c53278b7cd4b8587b0dc3845e5/classes.dex" />
     </item>
 
 </items>

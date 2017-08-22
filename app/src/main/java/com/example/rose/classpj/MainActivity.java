@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
-                        "mailto", "milanthapaliya@gmail.com", null));
+                        "mailto", "youremail", null));
                 intent.putExtra(Intent.EXTRA_SUBJECT, "hello");
                 intent.putExtra(Intent.EXTRA_TEXT, "new email");
                 startActivity(Intent.createChooser(intent, "Choose an Email client :"));
